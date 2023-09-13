@@ -2,7 +2,7 @@ import linkedLogo from "../assets/linkedin.png";
 import Resume from "../assets/ch2musical.pdf";
 import emailLogo from "../assets/email2.png";
 import githubLogo from "../assets/github2.png";
-import SqIcon from "./sqIcon";
+import SqIcon from "./SqIcon";
 import React from "react";
 
 const ContactRow = () => {
